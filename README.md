@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+# Introduction to Git and GitHub
+
+This project demonstrates the fundamentals of Git and GitHub, including repository management, branching, merging, collaboration, and pull requests.
